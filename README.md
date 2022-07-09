@@ -26,7 +26,7 @@ Very simple. Just download or clone the repository and install the following Pyt
 ## Software Requirements
 - [Python 3.9.5](https://www.python.org/downloads/release/python-395/)
 - An IDE for editing code:
-   - [Pycharm Communit Edition](https://www.jetbrains.com/pycharm/download)
+   - [Pycharm Community Edition](https://www.jetbrains.com/pycharm/download)
    - [Visual Studio Code](https://code.visualstudio.com/download)
    - [Spyder](https://www.spyder-ide.org/#section-download)
    - others...

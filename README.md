@@ -4,7 +4,7 @@ Virtual-Mouse is a mouse that brings functionalities of a regular mouse to your 
 You need a camera/webcam set up with your PC.
 
 ## How to use?
-It's very simple. When all is `OK` and pops up a window showing the camera window. Show your hand, you will see 2 circles in 2 dedicated fingers `Thumb` & `Index Finger` in the camera view.
+Very simple. Just download or clone the repository and install the following [Python modules](https://github.com/Sayad-Uddin-Tahsin/Virtual-Mouse/edit/main/README.md#module-requirements) and your are good to go! Simply run the program and it will pop up a window showing the camera. Show up your hand, you will notice 2 circles in 2 dedicated fingers `Thumb` & `Index Finger` in the camera view.
 
 ##
 **Q:** How can I move my mouse cursor?
@@ -24,7 +24,7 @@ It's very simple. When all is `OK` and pops up a window showing the camera windo
  
 
 ## Software Requirements
-- [Python](https://python.org)
+- [Python 3.9.5](https://www.python.org/downloads/release/python-395/)
 - An IDE for editing code:
    - [Pycharm Communit Edition](https://www.jetbrains.com/pycharm/download)
    - [Visual Studio Code](https://code.visualstudio.com/download)

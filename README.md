@@ -7,17 +7,17 @@ You need a camera/webcam set up with your PC.
 Very simple. Just download or clone the repository and install the following Python modules and your are good to go! Simply run the program and it will pop up a window showing the camera. Show up your hand, you will notice 2 circles in 2 dedicated fingers `Thumb` & `Index Finger` in the camera view.
 
 ##
-**Q:** How can I move my mouse cursor?
+**Q: How can I move my mouse cursor?**
 
-**A:** ___It's Simple! Just move your `Index Finger` to move your cursor!___
-
-##
-**Q:** How can I click to a button or on something?
-
-**A:** ___It's also really simple! All you need to touch your `Index Finger` with your `Thumb` or just need to make the distance between `Index` and `Thumb` Fingers minimum `20` pixels!___
+**A:** It's Simple! Just move your `Index Finger` to move your cursor!
 
 ##
- **Tip:** You can also change the minimum distance by changing `20` here: https://github.com/Sayad-Uddin-Tahsin/Virtual-Mouse/blob/62db0a2c5f3587b97188fc24788f02e537c637cb/main.py#L37
+**Q: How can I click to a button or on something?**
+
+**A:** It's also really simple! All you need to touch your `Index Finger` with your `Thumb` or just need to make the distance between `Index` and `Thumb` Fingers minimum `20` pixels!
+
+##
+ **Tip:** You can also change the minimum distance by changing `20` here: https://github.com/Sayad-Uddin-Tahsin/Virtual-Mouse/blob/3243afa6a42f6ef6cecb6a19d4905520c13944f9/main.py#L37
  
 ## Names of Fingers
  ![Names of Fingers](https://image.shutterstock.com/image-vector/fingers-names-human-body-parts-260nw-1042963189.jpg)
